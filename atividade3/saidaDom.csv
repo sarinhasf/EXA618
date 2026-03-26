@@ -1,0 +1,305 @@
+lat,lon,amenity,nome
+40.7494444,-73.9819444,place_of_worship,Lutheran Church In America
+40.7503328,-73.9829788,bicycle_rental,Citi Bike
+40.7503660,-73.9829180,bank,Citibank
+40.7499443,-73.9943348,pub,Tír na nÓg
+40.7481684,-73.9845248,bank,Chase
+40.7491000,-73.9839030,cafe,Starbucks
+40.7484288,-73.9850334,fast_food,Chipotle
+40.7481846,-73.9856870,cafe,Starbucks
+40.7520850,-73.9895832,bank,TD Bank
+40.7470420,-73.9817550,pharmacy,Duane Reade
+40.7499023,-73.9831807,fast_food,Burger King
+40.7502629,-73.9835580,bank,Capital One
+40.7500792,-73.9831088,bank,TD Bank
+40.7490233,-73.9822288,cafe,Starbucks
+40.7477252,-73.9869059,parking,SP+
+40.7480023,-73.9858823,pub,Legends
+40.7474363,-73.9850203,restaurant,Bonchon Chicken
+40.7471688,-73.9852137,restaurant,LOVE Korean BBQ
+40.7490700,-73.9923050,bank,Astoria Bank
+40.7488997,-73.9919013,bank,Emigrant Savings Bank
+40.7491185,-73.9917001,bank,PNC Bank
+40.7499004,-73.9856950,restaurant,Hakata TonTon
+40.7494986,-73.9932250,bar,Tracks
+40.7476933,-73.9932597,fast_food,Panera Bread
+40.7482815,-73.9928210,bar,Mustang Harry's
+40.7485643,-73.9891736,fast_food,Pret A Manger
+40.7483872,-73.9900940,university,CUNY School of Professional Studies
+40.7483929,-73.9906659,restaurant,Pennsylvania 6
+40.7472659,-73.9931223,pharmacy,Walgreens
+40.7478826,-73.9926628,fast_food,Healthy Choice Gourmet Deli & Pizza
+40.7488386,-73.9919696,restaurant,Niles NYC
+40.7479225,-73.9889275,restaurant,Sendo
+40.7482027,-73.9887195,restaurant,Yong Kang Street
+40.7482786,-73.9923729,bureau_de_change,A&S Foreign Exhange
+40.7475285,-73.9819965,pharmacy,Pasteur Pharmacy
+40.7470223,-73.9892703,clinic,One Medical
+40.7478237,-73.9835152,university,Devry College
+40.7479598,-73.9846822,fast_food,ETC Eatery
+40.7475091,-73.9860606,restaurant,BCD Tofu House
+40.7470470,-73.9830618,fast_food,Fluffies Hot Chicken
+40.7482758,-73.9823964,cafe,Cinico Coffee Company
+40.7477019,-73.9823857,food_court,Kosher in Midtown
+40.7512478,-73.9907000,bank,Citibank
+40.7519665,-73.9901608,fast_food,Wendy's
+40.7498635,-73.9897361,pub,Feile
+40.7510638,-73.9875061,fast_food,Playa Bowls
+40.7496644,-73.9856911,fast_food,Costas
+40.7493000,-73.9841629,fast_food,Dunkin'
+40.7496978,-73.9871027,university,Mercy University
+40.7511709,-73.9865137,fast_food,Sanmiwago
+40.7514303,-73.9863268,fast_food,Krispy Kreme
+40.7480891,-73.9828998,library,Science, Industry and Business Library
+40.7494523,-73.9832785,pub,Peter Dillon's
+40.7507533,-73.9819745,restaurant,Mad Dog & Beans Mexican Cantina
+40.7497762,-73.9833698,fast_food,Pret A Manger
+40.7495759,-73.9923316,social_facility,American Foundation for Blind
+40.7512973,-73.9838618,restaurant,The Australian NYC
+40.7511973,-73.9836072,pub,Blaggards Pub
+40.7507730,-73.9864091,restaurant,Keens Steakhouse
+40.7479403,-73.9926204,fast_food,Five Guys
+40.7504102,-73.9928259,cafe,Tim Hortons
+40.7493007,-73.9941316,bar,American Whiskey
+40.7513324,-73.9909368,fast_food,Dunkin'
+40.7504317,-73.9897503,cafe,Moka & Co
+40.7510522,-73.9912571,bank,M&T Bank
+40.7507171,-73.9874523,bank,Santander
+40.7509591,-73.9874993,pharmacy,Duane Reade
+40.7511344,-73.9874129,bank,HSBC
+40.7510615,-73.9879376,fast_food,Poké Bar
+40.7477981,-73.9872728,restaurant,Seoul Garden
+40.7516741,-73.9898634,restaurant,Andrews NYC Diner
+40.7484876,-73.9922019,restaurant,fresh&co
+40.7488974,-73.9885799,bicycle_rental,Citi Bike - 6 Ave & W 33 St
+40.7516887,-73.9937041,bicycle_rental,Citi Bike - 8 Ave & W 33 St
+40.7509771,-73.9876543,bicycle_rental,Citi Bike - Broadway & W 36 St
+40.7517158,-73.9875165,bicycle_rental,Citi Bike - Broadway & W 37 St
+40.7476595,-73.9849071,bicycle_rental,Citi Bike - E 33 St & 5 Ave
+40.7520623,-73.9816324,bicycle_rental,Citi Bike - E 40 St & 5 Ave
+40.7490340,-73.9917226,bicycle_rental,Citi Bike - W 31 St & 7 Ave
+40.7503801,-73.9833899,bicycle_rental,Citi Bike - W 37 St & 5 Ave
+40.7473377,-73.9842930,pub,Rattle n Hum
+40.7487800,-73.9915790,fast_food,Dunkin'
+40.7476070,-73.9848919,fast_food,Little Italy Pizza
+40.7517237,-73.9861214,fast_food,Chick-fil-A
+40.7484275,-73.9868832,pub,Jack Demsey's
+40.7507159,-73.9873346,atm,Santander
+40.7478213,-73.9878356,restaurant,Gaonnuri
+40.7501714,-73.9863439,restaurant,Cho Dang Gol
+40.7515794,-73.9858142,restaurant,Cafe China
+40.7503277,-73.9907937,fast_food,Sbarro
+40.7513742,-73.9878729,fast_food,Shake Shack
+40.7479614,-73.9857859,fast_food,Naya
+40.7480793,-73.9892846,cafe,Starbucks
+40.7480195,-73.9930198,fast_food,Pret A Manger
+40.7474399,-73.9864528,restaurant,Woorijip
+40.7516899,-73.9860342,fast_food,Pokeworksco
+40.7476739,-73.9869960,restaurant,Hana Michi
+40.7483945,-73.9927527,fast_food,Popeyes
+40.7520894,-73.9900673,cafe,The Bread Factory Cafe
+40.7472688,-73.9841528,cafe,Captain's Cafe
+40.7472167,-73.9841182,pub,Nelly Spillanes
+40.7502806,-73.9904398,bar,Bourbon & Branch
+40.7481685,-73.9929081,school,International Wine Center (IWC)
+40.7474989,-73.9869456,bar,Karaoke City
+40.7469708,-73.9853055,cafe,Ginseng Museum Cafe
+40.7472064,-73.9863960,bar,Cloud Social
+40.7480089,-73.9892281,post_box,United States Post Office
+40.7514042,-73.9907500,community_centre,Community Board Five
+40.7470756,-73.9850776,restaurant,Kang Ho Dong Baekjeong
+40.7477054,-73.9862346,food_court,Food Gallery 32
+40.7483977,-73.9855536,restaurant,Sushi teria
+40.7474348,-73.9830094,fast_food,Shah's Halal Food
+40.7476901,-73.9832034,bank,Wells Fargo
+40.7485816,-73.9863247,cafe,Kawande Martin Cafe
+40.7482802,-73.9865390,fast_food,Market Crates
+40.7482195,-73.9864149,restaurant,Turntable Chicken Jazz
+40.7475020,-73.9866594,bank,Bank of Hope
+40.7512626,-73.9848169,bar,Top of the strand
+40.7496997,-73.9857683,restaurant,Barn Joo 35
+40.7474070,-73.9863928,restaurant,missKOREA BBQ
+40.7475599,-73.9869049,restaurant,Jongro BBQ
+40.7489840,-73.9835103,restaurant,Royal 35 Steakhouse
+40.7511998,-73.9855652,fast_food,Dunkin'
+40.7477356,-73.9863789,bar,Pocha 32
+40.7476232,-73.9861377,restaurant,Gammeeok
+40.7482961,-73.9884959,restaurant,The Harold
+40.7470115,-73.9858410,restaurant,Joomak Banjum
+40.7473474,-73.9875394,post_office,Reach Fast Shipping Center
+40.7503235,-73.9918003,restaurant,Cinnamon snail
+40.7481126,-73.9911219,bar,Deweys Pub
+40.7521357,-73.9915345,cafe,Madman Espresso
+40.7481269,-73.9932265,restaurant,Swagat
+40.7472543,-73.9918207,bar,Pioneers Bar NYC
+40.7499291,-73.9898974,pub,Stout NYC
+40.7518625,-73.9890435,restaurant,Macaron Café
+40.7515970,-73.9883856,restaurant,Chopstick House
+40.7520083,-73.9854401,parking_entrance,iPark
+40.7518410,-73.9939691,clinic,CityMD
+40.7520413,-73.9938215,pharmacy,CVS Pharmacy
+40.7517218,-73.9940546,bank,TD Bank
+40.7481643,-73.9862577,pub,Sir John's NY
+40.7487203,-73.9847797,bank,Bank of America
+40.7479259,-73.9857050,fast_food,Dunkin'
+40.7480981,-73.9874846,restaurant,UDON
+40.7477457,-73.9871706,restaurant,The Kunjip
+40.7477885,-73.9867366,restaurant,New Wonjo
+40.7479047,-73.9889195,fast_food,99 Cents Fresh Pizza & Deli
+40.7503146,-73.9917756,restaurant,The Little Beet
+40.7502973,-73.9917260,restaurant,Pat LaFrieda Meat Purveyors
+40.7503212,-73.9917437,bar,The Pennsy Bar
+40.7503054,-73.9917525,restaurant,Ribalta
+40.7503324,-73.9918249,restaurant,Sabi Sushi
+40.7484764,-73.9890009,bank,TD Bank
+40.7480440,-73.9873353,cafe,caffé bene
+40.7483642,-73.9879796,bank,Chase
+40.7473548,-73.9862282,cafe,Paris Baguette
+40.7473670,-73.9856317,pharmacy,CVS Pharmacy
+40.7477867,-73.9874231,bar,5 Bar Karaoke Lounge
+40.7474567,-73.9865203,cafe,Gong Cha
+40.7503015,-73.9882260,fast_food,Burger King
+40.7504909,-73.9819457,restaurant,Norikoh
+40.7508098,-73.9840031,restaurant,Reichenbach Hall
+40.7500481,-73.9847324,restaurant,Clinton Hall 36
+40.7519306,-73.9835608,stripclub,Sapphire 39
+40.7499088,-73.9844632,restaurant,Yoon Haeundae Galbi
+40.7486317,-73.9893492,fast_food,Ess-a-Bagel
+40.7488771,-73.9898091,parking_entrance,Quik Park
+40.7485990,-73.9892620,coworking_space,The Yard
+40.7489975,-73.9901532,social_facility,Hope Lodge
+40.7486719,-73.9919677,fortune_teller,Sierra Psychic
+40.7475298,-73.9861172,ice_cream,Pinkberry
+40.7475798,-73.9861702,restaurant,Five Senses
+40.7515777,-73.9904412,fast_food,Al's Delicatessen
+40.7505753,-73.9911926,atm,Bank of America
+40.7506665,-73.9915474,restaurant,Lenwich
+40.7518367,-73.9902569,cafe,Starbucks
+40.7519075,-73.9902101,fast_food,Liberty Bagels
+40.7475361,-73.9854600,fast_food,Panera Bread
+40.7486227,-73.9841660,theatre,Martin E. Segal Theatre Center
+40.7474576,-73.9917001,cafe,Hanamizuki
+40.7509025,-73.9829081,post_box,USPS
+40.7503902,-73.9867656,bar,Monarch Rooftop
+40.7501893,-73.9881253,fast_food,Cinnabon
+40.7519614,-73.9847937,bar,Spyglass Rooftop
+40.7478350,-73.9868470,restaurant,BB.Q Olive Chicken
+40.7484534,-73.9927079,restaurant,Bravo Pizza
+40.7483305,-73.9905021,restaurant,Friedman’s
+40.7482318,-73.9883698,cafe,Mixue
+40.7482654,-73.9884306,cafe,Biao Sugar
+40.7497065,-73.9880289,bicycle_rental,Citi Bike - 6 Ave & W 34 St
+40.7493062,-73.9883682,atm,Bank of America
+40.7493581,-73.9883870,bank,Bank of America
+40.7476165,-73.9933167,pub,Triple Crown
+40.7478175,-73.9931701,clinic,City MD
+40.7483337,-73.9937884,cafe,Ninth Street Espresso
+40.7472822,-73.9931536,post_box,USPS
+40.7477236,-73.9883811,post_box,USPS
+40.7490376,-73.9902532,restaurant,Rowdy Rooster Indian Fried Chicken
+40.7509370,-73.9830168,pharmacy,CVS Pharmacy
+40.7472523,-73.9822072,restaurant,Hamachi Sushi
+40.7472278,-73.9821484,pub,The Long Hall
+40.7483096,-73.9904415,restaurant,Ichiran
+40.7493473,-73.9921822,atm,Bank of America
+40.7470484,-73.9931695,bar,La Noxe
+40.7476872,-73.9864866,cafe,Grace Street
+40.7473715,-73.9861655,telephone,Link NYC
+40.7476635,-73.9864189,cafe,Tea Makers
+40.7486013,-73.9867586,restaurant,Dim Sum Palace
+40.7500083,-73.9821348,restaurant,CHILI 美麗
+40.7507114,-73.9868695,cafe,Brasserie Toast Cafe
+40.7504377,-73.9907795,restaurant,Rosa's Pizza
+40.7516530,-73.9903779,restaurant,99¢ Delicious Pizza
+40.7478150,-73.9867152,restaurant,Anytime NYC
+40.7521025,-73.9877735,fast_food,Dunkin'
+40.7508937,-73.9867321,fast_food,Taco Bell Cantina
+40.7479431,-73.9871020,cafe,Machi machi
+40.7480141,-73.9872738,restaurant,Antoya Korean BBQ
+40.7473128,-73.9861372,restaurant,E-MO
+40.7472762,-73.9861356,restaurant,Hong Chun Cheon Dak Galbi
+40.7472788,-73.9860623,restaurant,Kushi Kushi Yaki
+40.7472957,-73.9860976,restaurant,Koku Ramen
+40.7473330,-73.9864401,restaurant,MUI
+40.7473223,-73.9861681,restaurant,Abiko Curry
+40.7476009,-73.9868755,bank,Citibank
+40.7476554,-73.9870454,restaurant,Itaewon Pocha
+40.7471520,-73.9819585,restaurant,Masala King
+40.7471784,-73.9820250,fast_food,Chelsea Bagel & Pizzeria
+40.7519690,-73.9896709,restaurant,Greek from Greece
+40.7520011,-73.9906484,restaurant,Yang Guo Fu
+40.7513655,-73.9922668,restaurant,The Landing
+40.7499168,-73.9942490,fast_food,4 Boy 99¢ Pizza
+40.7520118,-73.9912601,restaurant,Stick To My Pot Potstickers
+40.7515314,-73.9914715,fast_food,Chick-fil-A
+40.7470064,-73.9853791,restaurant,Soju Haus
+40.7470406,-73.9859223,restaurant,Gopchang Story BBQ
+40.7484569,-73.9879549,restaurant,B&L Diner
+40.7483820,-73.9878429,cafe,Early Edition Espresso Bar
+40.7482511,-73.9864775,restaurant,Nan Xiang Xiao Long Bao
+40.7483804,-73.9867781,restaurant,Rib No. 7
+40.7485457,-73.9871672,restaurant,Hutaoli
+40.7487358,-73.9870637,restaurant,Ai Ki Ya
+40.7483075,-73.9866107,restaurant,Seoul Salon
+40.7477192,-73.9890280,cafe,Gregory’s coffee
+40.7509498,-73.9861869,clinic,L.A. FUE Hair New York
+40.7501089,-73.9861942,restaurant,Hyodonggak
+40.7501321,-73.9862499,restaurant,Han Bat
+40.7493752,-73.9831111,restaurant,The Dunes Club
+40.7493423,-73.9830385,restaurant,Toledo
+40.7493073,-73.9829506,pub,Slatterlys Midtown Pub
+40.7516543,-73.9847364,food_court,38 Food Hall
+40.7517217,-73.9877910,cafe,Starbucks
+40.7498599,-73.9874941,cafe,Capital One Café
+40.7498527,-73.9919818,fast_food,Pret A Manger
+40.7500535,-73.9866945,social_facility,Alliance for Positive Change
+40.7505260,-73.9907010,fast_food,McDonald's
+40.7472594,-73.9831400,restaurant,Ravagh Persian Grill
+40.7477537,-73.9853170,bank,Woori America Bank
+40.7493418,-73.9841442,restaurant,Bravo
+40.7479234,-73.9878140,cafe,Nana's Green Tea
+40.7511600,-73.9930023,fast_food,Chick-fil-A
+40.7505083,-73.9933551,cafe,Starbucks
+40.7508733,-73.9923032,fast_food,Raising Cane's
+40.7520357,-73.9858812,restaurant,Pizza Town
+40.7482440,-73.9923982,fast_food,Rony's Fresh Pizza
+40.7506563,-73.9869127,fast_food,Pollo Campero
+40.7514912,-73.9862834,cafe,Paris Baguette
+40.7504913,-73.9870459,bank,Bank United
+40.7497845,-73.9854176,pub,Playwright Irish Pub
+40.7498622,-73.9856035,restaurant,The Liberty
+40.7507736,-73.9914958,restaurant,Roberta's
+40.7474883,-73.9923022,restaurant,Loopy's
+40.7473981,-73.9922667,theatre,The PIT
+40.7474645,-73.9922458,restaurant,New M & J
+40.7480095,-73.9925698,bank,Apple Bank
+40.7479876,-73.9915765,restaurant,Piggyback
+40.7493717,-73.9940704,arts_centre,The Drawing Room
+40.7507899,-73.9932561,restaurant,Mas Tacos
+40.7506271,-73.9880621,restaurant,Stella 34 Trattoria
+40.7500475,-73.9860309,cafe,Angelina Bakery & Pizza
+40.7473756,-73.9830554,restaurant,Dao Dim Sum
+40.7476794,-73.9927573,cafe,Le Pain Quotidien
+40.7516443,-73.9859621,restaurant,Smash House
+40.7516084,-73.9859030,stripclub,Vivid Cabaret
+40.7471726,-73.9871962,restaurant,K Sushi & Bar
+40.7520840,-73.9858316,ice_cream,Frozen City
+40.7500629,-73.9861062,restaurant,Black Tap
+40.7469733,-73.9853512,restaurant,Nubiani
+40.7502290,-73.9845350,restaurant,Tonchin New York
+40.7508160,-73.9859024,bar,The Keg Room
+40.7520674,-73.9850554,restaurant,Class on 38th
+40.7511000,-73.9852329,restaurant,Watami Sushi
+40.7511390,-73.9865390,fast_food,Sushi & Co
+40.7512034,-73.9864912,fast_food,Roma Pizza
+40.7512648,-73.9864480,fast_food,Oakberry Acai
+40.7513786,-73.9863642,fast_food,I'Milky
+40.7476537,-73.9861935,fast_food,Pelicana
+40.7476688,-73.9823057,restaurant,Tiberias
+40.7483043,-73.9860187,restaurant,STATE Grill and Bar
+40.7486834,-73.9847294,dentist,Glow Dental of Midtown Manhattan: Dr. Alina Huang
+40.7485290,-73.9825854,bicycle_rental,Citi Bike - E 35 St & Madison Ave
+40.7480254,-73.9930196,fast_food,Pret A Manger
+40.7474623,-73.9818396,clinic,Mount Sinai Doctors
+40.7520522,-73.9888833,fast_food,Dunkin'
+40.7472671,-73.9851526,cafe,Xing Fu Tang

@@ -1,0 +1,4565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9819444,
+                    40.7494444
+                ]
+            },
+            "properties": {
+                "nome": "Lutheran Church In America",
+                "tipo": "place_of_worship"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9829788,
+                    40.7503328
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike",
+                "tipo": "bicycle_rental"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.982918,
+                    40.750366
+                ]
+            },
+            "properties": {
+                "nome": "Citibank",
+                "tipo": "bank"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9943348,
+                    40.7499443
+                ]
+            },
+            "properties": {
+                "nome": "Tír na nÓg",
+                "tipo": "pub"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9845248,
+                    40.7481684
+                ]
+            },
+            "properties": {
+                "nome": "Chase",
+                "tipo": "bank"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983903,
+                    40.7491
+                ]
+            },
+            "properties": {
+                "nome": "Starbucks",
+                "tipo": "cafe"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9850334,
+                    40.7484288
+                ]
+            },
+            "properties": {
+                "nome": "Chipotle",
+                "tipo": "fast_food"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985687,
+                    40.7481846
+                ]
+            },
+            "properties": {
+                "nome": "Starbucks",
+                "tipo": "cafe"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9895832,
+                    40.752085
+                ]
+            },
+            "properties": {
+                "nome": "TD Bank",
+                "tipo": "bank"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981755,
+                    40.747042
+                ]
+            },
+            "properties": {
+                "nome": "Duane Reade",
+                "tipo": "pharmacy"
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9831807,
+                    40.7499023
+                ]
+            },
+            "properties": {
+                "nome": "Burger King",
+                "tipo": "fast_food"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983558,
+                    40.7502629
+                ]
+            },
+            "properties": {
+                "nome": "Capital One",
+                "tipo": "bank"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9831088,
+                    40.7500792
+                ]
+            },
+            "properties": {
+                "nome": "TD Bank",
+                "tipo": "bank"
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9822288,
+                    40.7490233
+                ]
+            },
+            "properties": {
+                "nome": "Starbucks",
+                "tipo": "cafe"
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9869059,
+                    40.7477252
+                ]
+            },
+            "properties": {
+                "nome": "SP+",
+                "tipo": "parking"
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9858823,
+                    40.7480023
+                ]
+            },
+            "properties": {
+                "nome": "Legends",
+                "tipo": "pub"
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9850203,
+                    40.7474363
+                ]
+            },
+            "properties": {
+                "nome": "Bonchon Chicken",
+                "tipo": "restaurant"
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9852137,
+                    40.7471688
+                ]
+            },
+            "properties": {
+                "nome": "LOVE Korean BBQ",
+                "tipo": "restaurant"
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.992305,
+                    40.74907
+                ]
+            },
+            "properties": {
+                "nome": "Astoria Bank",
+                "tipo": "bank"
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9919013,
+                    40.7488997
+                ]
+            },
+            "properties": {
+                "nome": "Emigrant Savings Bank",
+                "tipo": "bank"
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9917001,
+                    40.7491185
+                ]
+            },
+            "properties": {
+                "nome": "PNC Bank",
+                "tipo": "bank"
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985695,
+                    40.7499004
+                ]
+            },
+            "properties": {
+                "nome": "Hakata TonTon",
+                "tipo": "restaurant"
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.993225,
+                    40.7494986
+                ]
+            },
+            "properties": {
+                "nome": "Tracks",
+                "tipo": "bar"
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9932597,
+                    40.7476933
+                ]
+            },
+            "properties": {
+                "nome": "Panera Bread",
+                "tipo": "fast_food"
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.992821,
+                    40.7482815
+                ]
+            },
+            "properties": {
+                "nome": "Mustang Harry's",
+                "tipo": "bar"
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9891736,
+                    40.7485643
+                ]
+            },
+            "properties": {
+                "nome": "Pret A Manger",
+                "tipo": "fast_food"
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.990094,
+                    40.7483872
+                ]
+            },
+            "properties": {
+                "nome": "CUNY School of Professional Studies",
+                "tipo": "university"
+            },
+            "id": 26
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9906659,
+                    40.7483929
+                ]
+            },
+            "properties": {
+                "nome": "Pennsylvania 6",
+                "tipo": "restaurant"
+            },
+            "id": 27
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9931223,
+                    40.7472659
+                ]
+            },
+            "properties": {
+                "nome": "Walgreens",
+                "tipo": "pharmacy"
+            },
+            "id": 28
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9926628,
+                    40.7478826
+                ]
+            },
+            "properties": {
+                "nome": "Healthy Choice Gourmet Deli & Pizza",
+                "tipo": "fast_food"
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9919696,
+                    40.7488386
+                ]
+            },
+            "properties": {
+                "nome": "Niles NYC",
+                "tipo": "restaurant"
+            },
+            "id": 30
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9889275,
+                    40.7479225
+                ]
+            },
+            "properties": {
+                "nome": "Sendo",
+                "tipo": "restaurant"
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9887195,
+                    40.7482027
+                ]
+            },
+            "properties": {
+                "nome": "Yong Kang Street",
+                "tipo": "restaurant"
+            },
+            "id": 32
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9923729,
+                    40.7482786
+                ]
+            },
+            "properties": {
+                "nome": "A&S Foreign Exhange",
+                "tipo": "bureau_de_change"
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9819965,
+                    40.7475285
+                ]
+            },
+            "properties": {
+                "nome": "Pasteur Pharmacy",
+                "tipo": "pharmacy"
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9892703,
+                    40.7470223
+                ]
+            },
+            "properties": {
+                "nome": "One Medical",
+                "tipo": "clinic"
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9835152,
+                    40.7478237
+                ]
+            },
+            "properties": {
+                "nome": "Devry College",
+                "tipo": "university"
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9846822,
+                    40.7479598
+                ]
+            },
+            "properties": {
+                "nome": "ETC Eatery",
+                "tipo": "fast_food"
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9860606,
+                    40.7475091
+                ]
+            },
+            "properties": {
+                "nome": "BCD Tofu House",
+                "tipo": "restaurant"
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9830618,
+                    40.747047
+                ]
+            },
+            "properties": {
+                "nome": "Fluffies Hot Chicken",
+                "tipo": "fast_food"
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9823964,
+                    40.7482758
+                ]
+            },
+            "properties": {
+                "nome": "Cinico Coffee Company",
+                "tipo": "cafe"
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9823857,
+                    40.7477019
+                ]
+            },
+            "properties": {
+                "nome": "Kosher in Midtown",
+                "tipo": "food_court"
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9907,
+                    40.7512478
+                ]
+            },
+            "properties": {
+                "nome": "Citibank",
+                "tipo": "bank"
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9901608,
+                    40.7519665
+                ]
+            },
+            "properties": {
+                "nome": "Wendy's",
+                "tipo": "fast_food"
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9897361,
+                    40.7498635
+                ]
+            },
+            "properties": {
+                "nome": "Feile",
+                "tipo": "pub"
+            },
+            "id": 44
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9875061,
+                    40.7510638
+                ]
+            },
+            "properties": {
+                "nome": "Playa Bowls",
+                "tipo": "fast_food"
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9856911,
+                    40.7496644
+                ]
+            },
+            "properties": {
+                "nome": "Costas",
+                "tipo": "fast_food"
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9841629,
+                    40.7493
+                ]
+            },
+            "properties": {
+                "nome": "Dunkin'",
+                "tipo": "fast_food"
+            },
+            "id": 47
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9871027,
+                    40.7496978
+                ]
+            },
+            "properties": {
+                "nome": "Mercy University",
+                "tipo": "university"
+            },
+            "id": 48
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9865137,
+                    40.7511709
+                ]
+            },
+            "properties": {
+                "nome": "Sanmiwago",
+                "tipo": "fast_food"
+            },
+            "id": 49
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9863268,
+                    40.7514303
+                ]
+            },
+            "properties": {
+                "nome": "Krispy Kreme",
+                "tipo": "fast_food"
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9828998,
+                    40.7480891
+                ]
+            },
+            "properties": {
+                "nome": "Science",
+                "tipo": "library"
+            },
+            "id": 51
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9832785,
+                    40.7494523
+                ]
+            },
+            "properties": {
+                "nome": "Peter Dillon's",
+                "tipo": "pub"
+            },
+            "id": 52
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9819745,
+                    40.7507533
+                ]
+            },
+            "properties": {
+                "nome": "Mad Dog & Beans Mexican Cantina",
+                "tipo": "restaurant"
+            },
+            "id": 53
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9833698,
+                    40.7497762
+                ]
+            },
+            "properties": {
+                "nome": "Pret A Manger",
+                "tipo": "fast_food"
+            },
+            "id": 54
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9923316,
+                    40.7495759
+                ]
+            },
+            "properties": {
+                "nome": "American Foundation for Blind",
+                "tipo": "social_facility"
+            },
+            "id": 55
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9838618,
+                    40.7512973
+                ]
+            },
+            "properties": {
+                "nome": "The Australian NYC",
+                "tipo": "restaurant"
+            },
+            "id": 56
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9836072,
+                    40.7511973
+                ]
+            },
+            "properties": {
+                "nome": "Blaggards Pub",
+                "tipo": "pub"
+            },
+            "id": 57
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864091,
+                    40.750773
+                ]
+            },
+            "properties": {
+                "nome": "Keens Steakhouse",
+                "tipo": "restaurant"
+            },
+            "id": 58
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9926204,
+                    40.7479403
+                ]
+            },
+            "properties": {
+                "nome": "Five Guys",
+                "tipo": "fast_food"
+            },
+            "id": 59
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9928259,
+                    40.7504102
+                ]
+            },
+            "properties": {
+                "nome": "Tim Hortons",
+                "tipo": "cafe"
+            },
+            "id": 60
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9941316,
+                    40.7493007
+                ]
+            },
+            "properties": {
+                "nome": "American Whiskey",
+                "tipo": "bar"
+            },
+            "id": 61
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9909368,
+                    40.7513324
+                ]
+            },
+            "properties": {
+                "nome": "Dunkin'",
+                "tipo": "fast_food"
+            },
+            "id": 62
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9897503,
+                    40.7504317
+                ]
+            },
+            "properties": {
+                "nome": "Moka & Co",
+                "tipo": "cafe"
+            },
+            "id": 63
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9912571,
+                    40.7510522
+                ]
+            },
+            "properties": {
+                "nome": "M&T Bank",
+                "tipo": "bank"
+            },
+            "id": 64
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9874523,
+                    40.7507171
+                ]
+            },
+            "properties": {
+                "nome": "Santander",
+                "tipo": "bank"
+            },
+            "id": 65
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9874993,
+                    40.7509591
+                ]
+            },
+            "properties": {
+                "nome": "Duane Reade",
+                "tipo": "pharmacy"
+            },
+            "id": 66
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9874129,
+                    40.7511344
+                ]
+            },
+            "properties": {
+                "nome": "HSBC",
+                "tipo": "bank"
+            },
+            "id": 67
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9879376,
+                    40.7510615
+                ]
+            },
+            "properties": {
+                "nome": "Poké Bar",
+                "tipo": "fast_food"
+            },
+            "id": 68
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9872728,
+                    40.7477981
+                ]
+            },
+            "properties": {
+                "nome": "Seoul Garden",
+                "tipo": "restaurant"
+            },
+            "id": 69
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9898634,
+                    40.7516741
+                ]
+            },
+            "properties": {
+                "nome": "Andrews NYC Diner",
+                "tipo": "restaurant"
+            },
+            "id": 70
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9922019,
+                    40.7484876
+                ]
+            },
+            "properties": {
+                "nome": "fresh&co",
+                "tipo": "restaurant"
+            },
+            "id": 71
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9885799,
+                    40.7488974
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - 6 Ave & W 33 St",
+                "tipo": "bicycle_rental"
+            },
+            "id": 72
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9937041,
+                    40.7516887
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - 8 Ave & W 33 St",
+                "tipo": "bicycle_rental"
+            },
+            "id": 73
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9876543,
+                    40.7509771
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - Broadway & W 36 St",
+                "tipo": "bicycle_rental"
+            },
+            "id": 74
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9875165,
+                    40.7517158
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - Broadway & W 37 St",
+                "tipo": "bicycle_rental"
+            },
+            "id": 75
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9849071,
+                    40.7476595
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - E 33 St & 5 Ave",
+                "tipo": "bicycle_rental"
+            },
+            "id": 76
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9816324,
+                    40.7520623
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - E 40 St & 5 Ave",
+                "tipo": "bicycle_rental"
+            },
+            "id": 77
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9917226,
+                    40.749034
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - W 31 St & 7 Ave",
+                "tipo": "bicycle_rental"
+            },
+            "id": 78
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9833899,
+                    40.7503801
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - W 37 St & 5 Ave",
+                "tipo": "bicycle_rental"
+            },
+            "id": 79
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.984293,
+                    40.7473377
+                ]
+            },
+            "properties": {
+                "nome": "Rattle n Hum",
+                "tipo": "pub"
+            },
+            "id": 80
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.991579,
+                    40.74878
+                ]
+            },
+            "properties": {
+                "nome": "Dunkin'",
+                "tipo": "fast_food"
+            },
+            "id": 81
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9848919,
+                    40.747607
+                ]
+            },
+            "properties": {
+                "nome": "Little Italy Pizza",
+                "tipo": "fast_food"
+            },
+            "id": 82
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861214,
+                    40.7517237
+                ]
+            },
+            "properties": {
+                "nome": "Chick-fil-A",
+                "tipo": "fast_food"
+            },
+            "id": 83
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9868832,
+                    40.7484275
+                ]
+            },
+            "properties": {
+                "nome": "Jack Demsey's",
+                "tipo": "pub"
+            },
+            "id": 84
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9873346,
+                    40.7507159
+                ]
+            },
+            "properties": {
+                "nome": "Santander",
+                "tipo": "atm"
+            },
+            "id": 85
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9878356,
+                    40.7478213
+                ]
+            },
+            "properties": {
+                "nome": "Gaonnuri",
+                "tipo": "restaurant"
+            },
+            "id": 86
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9863439,
+                    40.7501714
+                ]
+            },
+            "properties": {
+                "nome": "Cho Dang Gol",
+                "tipo": "restaurant"
+            },
+            "id": 87
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9858142,
+                    40.7515794
+                ]
+            },
+            "properties": {
+                "nome": "Cafe China",
+                "tipo": "restaurant"
+            },
+            "id": 88
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9907937,
+                    40.7503277
+                ]
+            },
+            "properties": {
+                "nome": "Sbarro",
+                "tipo": "fast_food"
+            },
+            "id": 89
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9878729,
+                    40.7513742
+                ]
+            },
+            "properties": {
+                "nome": "Shake Shack",
+                "tipo": "fast_food"
+            },
+            "id": 90
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9857859,
+                    40.7479614
+                ]
+            },
+            "properties": {
+                "nome": "Naya",
+                "tipo": "fast_food"
+            },
+            "id": 91
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9892846,
+                    40.7480793
+                ]
+            },
+            "properties": {
+                "nome": "Starbucks",
+                "tipo": "cafe"
+            },
+            "id": 92
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9930198,
+                    40.7480195
+                ]
+            },
+            "properties": {
+                "nome": "Pret A Manger",
+                "tipo": "fast_food"
+            },
+            "id": 93
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864528,
+                    40.7474399
+                ]
+            },
+            "properties": {
+                "nome": "Woorijip",
+                "tipo": "restaurant"
+            },
+            "id": 94
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9860342,
+                    40.7516899
+                ]
+            },
+            "properties": {
+                "nome": "Pokeworksco",
+                "tipo": "fast_food"
+            },
+            "id": 95
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986996,
+                    40.7476739
+                ]
+            },
+            "properties": {
+                "nome": "Hana Michi",
+                "tipo": "restaurant"
+            },
+            "id": 96
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9927527,
+                    40.7483945
+                ]
+            },
+            "properties": {
+                "nome": "Popeyes",
+                "tipo": "fast_food"
+            },
+            "id": 97
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9900673,
+                    40.7520894
+                ]
+            },
+            "properties": {
+                "nome": "The Bread Factory Cafe",
+                "tipo": "cafe"
+            },
+            "id": 98
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9841528,
+                    40.7472688
+                ]
+            },
+            "properties": {
+                "nome": "Captain's Cafe",
+                "tipo": "cafe"
+            },
+            "id": 99
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9841182,
+                    40.7472167
+                ]
+            },
+            "properties": {
+                "nome": "Nelly Spillanes",
+                "tipo": "pub"
+            },
+            "id": 100
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9904398,
+                    40.7502806
+                ]
+            },
+            "properties": {
+                "nome": "Bourbon & Branch",
+                "tipo": "bar"
+            },
+            "id": 101
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9929081,
+                    40.7481685
+                ]
+            },
+            "properties": {
+                "nome": "International Wine Center (IWC)",
+                "tipo": "school"
+            },
+            "id": 102
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9869456,
+                    40.7474989
+                ]
+            },
+            "properties": {
+                "nome": "Karaoke City",
+                "tipo": "bar"
+            },
+            "id": 103
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9853055,
+                    40.7469708
+                ]
+            },
+            "properties": {
+                "nome": "Ginseng Museum Cafe",
+                "tipo": "cafe"
+            },
+            "id": 104
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986396,
+                    40.7472064
+                ]
+            },
+            "properties": {
+                "nome": "Cloud Social",
+                "tipo": "bar"
+            },
+            "id": 105
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9892281,
+                    40.7480089
+                ]
+            },
+            "properties": {
+                "nome": "United States Post Office",
+                "tipo": "post_box"
+            },
+            "id": 106
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99075,
+                    40.7514042
+                ]
+            },
+            "properties": {
+                "nome": "Community Board Five",
+                "tipo": "community_centre"
+            },
+            "id": 107
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9850776,
+                    40.7470756
+                ]
+            },
+            "properties": {
+                "nome": "Kang Ho Dong Baekjeong",
+                "tipo": "restaurant"
+            },
+            "id": 108
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9862346,
+                    40.7477054
+                ]
+            },
+            "properties": {
+                "nome": "Food Gallery 32",
+                "tipo": "food_court"
+            },
+            "id": 109
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9855536,
+                    40.7483977
+                ]
+            },
+            "properties": {
+                "nome": "Sushi teria",
+                "tipo": "restaurant"
+            },
+            "id": 110
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9830094,
+                    40.7474348
+                ]
+            },
+            "properties": {
+                "nome": "Shah's Halal Food",
+                "tipo": "fast_food"
+            },
+            "id": 111
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9832034,
+                    40.7476901
+                ]
+            },
+            "properties": {
+                "nome": "Wells Fargo",
+                "tipo": "bank"
+            },
+            "id": 112
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9863247,
+                    40.7485816
+                ]
+            },
+            "properties": {
+                "nome": "Kawande Martin Cafe",
+                "tipo": "cafe"
+            },
+            "id": 113
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986539,
+                    40.7482802
+                ]
+            },
+            "properties": {
+                "nome": "Market Crates",
+                "tipo": "fast_food"
+            },
+            "id": 114
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864149,
+                    40.7482195
+                ]
+            },
+            "properties": {
+                "nome": "Turntable Chicken Jazz",
+                "tipo": "restaurant"
+            },
+            "id": 115
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9866594,
+                    40.747502
+                ]
+            },
+            "properties": {
+                "nome": "Bank of Hope",
+                "tipo": "bank"
+            },
+            "id": 116
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9848169,
+                    40.7512626
+                ]
+            },
+            "properties": {
+                "nome": "Top of the strand",
+                "tipo": "bar"
+            },
+            "id": 117
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9857683,
+                    40.7496997
+                ]
+            },
+            "properties": {
+                "nome": "Barn Joo 35",
+                "tipo": "restaurant"
+            },
+            "id": 118
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9863928,
+                    40.747407
+                ]
+            },
+            "properties": {
+                "nome": "missKOREA BBQ",
+                "tipo": "restaurant"
+            },
+            "id": 119
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9869049,
+                    40.7475599
+                ]
+            },
+            "properties": {
+                "nome": "Jongro BBQ",
+                "tipo": "restaurant"
+            },
+            "id": 120
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9835103,
+                    40.748984
+                ]
+            },
+            "properties": {
+                "nome": "Royal 35 Steakhouse",
+                "tipo": "restaurant"
+            },
+            "id": 121
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9855652,
+                    40.7511998
+                ]
+            },
+            "properties": {
+                "nome": "Dunkin'",
+                "tipo": "fast_food"
+            },
+            "id": 122
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9863789,
+                    40.7477356
+                ]
+            },
+            "properties": {
+                "nome": "Pocha 32",
+                "tipo": "bar"
+            },
+            "id": 123
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861377,
+                    40.7476232
+                ]
+            },
+            "properties": {
+                "nome": "Gammeeok",
+                "tipo": "restaurant"
+            },
+            "id": 124
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9884959,
+                    40.7482961
+                ]
+            },
+            "properties": {
+                "nome": "The Harold",
+                "tipo": "restaurant"
+            },
+            "id": 125
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985841,
+                    40.7470115
+                ]
+            },
+            "properties": {
+                "nome": "Joomak Banjum",
+                "tipo": "restaurant"
+            },
+            "id": 126
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9875394,
+                    40.7473474
+                ]
+            },
+            "properties": {
+                "nome": "Reach Fast Shipping Center",
+                "tipo": "post_office"
+            },
+            "id": 127
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9918003,
+                    40.7503235
+                ]
+            },
+            "properties": {
+                "nome": "Cinnamon snail",
+                "tipo": "restaurant"
+            },
+            "id": 128
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9911219,
+                    40.7481126
+                ]
+            },
+            "properties": {
+                "nome": "Deweys Pub",
+                "tipo": "bar"
+            },
+            "id": 129
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9915345,
+                    40.7521357
+                ]
+            },
+            "properties": {
+                "nome": "Madman Espresso",
+                "tipo": "cafe"
+            },
+            "id": 130
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9932265,
+                    40.7481269
+                ]
+            },
+            "properties": {
+                "nome": "Swagat",
+                "tipo": "restaurant"
+            },
+            "id": 131
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9918207,
+                    40.7472543
+                ]
+            },
+            "properties": {
+                "nome": "Pioneers Bar NYC",
+                "tipo": "bar"
+            },
+            "id": 132
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9898974,
+                    40.7499291
+                ]
+            },
+            "properties": {
+                "nome": "Stout NYC",
+                "tipo": "pub"
+            },
+            "id": 133
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9890435,
+                    40.7518625
+                ]
+            },
+            "properties": {
+                "nome": "Macaron Café",
+                "tipo": "restaurant"
+            },
+            "id": 134
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9883856,
+                    40.751597
+                ]
+            },
+            "properties": {
+                "nome": "Chopstick House",
+                "tipo": "restaurant"
+            },
+            "id": 135
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9854401,
+                    40.7520083
+                ]
+            },
+            "properties": {
+                "nome": "iPark",
+                "tipo": "parking_entrance"
+            },
+            "id": 136
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9939691,
+                    40.751841
+                ]
+            },
+            "properties": {
+                "nome": "CityMD",
+                "tipo": "clinic"
+            },
+            "id": 137
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9938215,
+                    40.7520413
+                ]
+            },
+            "properties": {
+                "nome": "CVS Pharmacy",
+                "tipo": "pharmacy"
+            },
+            "id": 138
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9940546,
+                    40.7517218
+                ]
+            },
+            "properties": {
+                "nome": "TD Bank",
+                "tipo": "bank"
+            },
+            "id": 139
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9862577,
+                    40.7481643
+                ]
+            },
+            "properties": {
+                "nome": "Sir John's NY",
+                "tipo": "pub"
+            },
+            "id": 140
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9847797,
+                    40.7487203
+                ]
+            },
+            "properties": {
+                "nome": "Bank of America",
+                "tipo": "bank"
+            },
+            "id": 141
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985705,
+                    40.7479259
+                ]
+            },
+            "properties": {
+                "nome": "Dunkin'",
+                "tipo": "fast_food"
+            },
+            "id": 142
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9874846,
+                    40.7480981
+                ]
+            },
+            "properties": {
+                "nome": "UDON",
+                "tipo": "restaurant"
+            },
+            "id": 143
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9871706,
+                    40.7477457
+                ]
+            },
+            "properties": {
+                "nome": "The Kunjip",
+                "tipo": "restaurant"
+            },
+            "id": 144
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9867366,
+                    40.7477885
+                ]
+            },
+            "properties": {
+                "nome": "New Wonjo",
+                "tipo": "restaurant"
+            },
+            "id": 145
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9889195,
+                    40.7479047
+                ]
+            },
+            "properties": {
+                "nome": "99 Cents Fresh Pizza & Deli",
+                "tipo": "fast_food"
+            },
+            "id": 146
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9917756,
+                    40.7503146
+                ]
+            },
+            "properties": {
+                "nome": "The Little Beet",
+                "tipo": "restaurant"
+            },
+            "id": 147
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.991726,
+                    40.7502973
+                ]
+            },
+            "properties": {
+                "nome": "Pat LaFrieda Meat Purveyors",
+                "tipo": "restaurant"
+            },
+            "id": 148
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9917437,
+                    40.7503212
+                ]
+            },
+            "properties": {
+                "nome": "The Pennsy Bar",
+                "tipo": "bar"
+            },
+            "id": 149
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9917525,
+                    40.7503054
+                ]
+            },
+            "properties": {
+                "nome": "Ribalta",
+                "tipo": "restaurant"
+            },
+            "id": 150
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9918249,
+                    40.7503324
+                ]
+            },
+            "properties": {
+                "nome": "Sabi Sushi",
+                "tipo": "restaurant"
+            },
+            "id": 151
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9890009,
+                    40.7484764
+                ]
+            },
+            "properties": {
+                "nome": "TD Bank",
+                "tipo": "bank"
+            },
+            "id": 152
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9873353,
+                    40.748044
+                ]
+            },
+            "properties": {
+                "nome": "caffé bene",
+                "tipo": "cafe"
+            },
+            "id": 153
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9879796,
+                    40.7483642
+                ]
+            },
+            "properties": {
+                "nome": "Chase",
+                "tipo": "bank"
+            },
+            "id": 154
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9862282,
+                    40.7473548
+                ]
+            },
+            "properties": {
+                "nome": "Paris Baguette",
+                "tipo": "cafe"
+            },
+            "id": 155
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9856317,
+                    40.747367
+                ]
+            },
+            "properties": {
+                "nome": "CVS Pharmacy",
+                "tipo": "pharmacy"
+            },
+            "id": 156
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9874231,
+                    40.7477867
+                ]
+            },
+            "properties": {
+                "nome": "5 Bar Karaoke Lounge",
+                "tipo": "bar"
+            },
+            "id": 157
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9865203,
+                    40.7474567
+                ]
+            },
+            "properties": {
+                "nome": "Gong Cha",
+                "tipo": "cafe"
+            },
+            "id": 158
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.988226,
+                    40.7503015
+                ]
+            },
+            "properties": {
+                "nome": "Burger King",
+                "tipo": "fast_food"
+            },
+            "id": 159
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9819457,
+                    40.7504909
+                ]
+            },
+            "properties": {
+                "nome": "Norikoh",
+                "tipo": "restaurant"
+            },
+            "id": 160
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9840031,
+                    40.7508098
+                ]
+            },
+            "properties": {
+                "nome": "Reichenbach Hall",
+                "tipo": "restaurant"
+            },
+            "id": 161
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9847324,
+                    40.7500481
+                ]
+            },
+            "properties": {
+                "nome": "Clinton Hall 36",
+                "tipo": "restaurant"
+            },
+            "id": 162
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9835608,
+                    40.7519306
+                ]
+            },
+            "properties": {
+                "nome": "Sapphire 39",
+                "tipo": "stripclub"
+            },
+            "id": 163
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9844632,
+                    40.7499088
+                ]
+            },
+            "properties": {
+                "nome": "Yoon Haeundae Galbi",
+                "tipo": "restaurant"
+            },
+            "id": 164
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9893492,
+                    40.7486317
+                ]
+            },
+            "properties": {
+                "nome": "Ess-a-Bagel",
+                "tipo": "fast_food"
+            },
+            "id": 165
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9898091,
+                    40.7488771
+                ]
+            },
+            "properties": {
+                "nome": "Quik Park",
+                "tipo": "parking_entrance"
+            },
+            "id": 166
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.989262,
+                    40.748599
+                ]
+            },
+            "properties": {
+                "nome": "The Yard",
+                "tipo": "coworking_space"
+            },
+            "id": 167
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9901532,
+                    40.7489975
+                ]
+            },
+            "properties": {
+                "nome": "Hope Lodge",
+                "tipo": "social_facility"
+            },
+            "id": 168
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9919677,
+                    40.7486719
+                ]
+            },
+            "properties": {
+                "nome": "Sierra Psychic",
+                "tipo": "fortune_teller"
+            },
+            "id": 169
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861172,
+                    40.7475298
+                ]
+            },
+            "properties": {
+                "nome": "Pinkberry",
+                "tipo": "ice_cream"
+            },
+            "id": 170
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861702,
+                    40.7475798
+                ]
+            },
+            "properties": {
+                "nome": "Five Senses",
+                "tipo": "restaurant"
+            },
+            "id": 171
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9904412,
+                    40.7515777
+                ]
+            },
+            "properties": {
+                "nome": "Al's Delicatessen",
+                "tipo": "fast_food"
+            },
+            "id": 172
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9911926,
+                    40.7505753
+                ]
+            },
+            "properties": {
+                "nome": "Bank of America",
+                "tipo": "atm"
+            },
+            "id": 173
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9915474,
+                    40.7506665
+                ]
+            },
+            "properties": {
+                "nome": "Lenwich",
+                "tipo": "restaurant"
+            },
+            "id": 174
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9902569,
+                    40.7518367
+                ]
+            },
+            "properties": {
+                "nome": "Starbucks",
+                "tipo": "cafe"
+            },
+            "id": 175
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9902101,
+                    40.7519075
+                ]
+            },
+            "properties": {
+                "nome": "Liberty Bagels",
+                "tipo": "fast_food"
+            },
+            "id": 176
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98546,
+                    40.7475361
+                ]
+            },
+            "properties": {
+                "nome": "Panera Bread",
+                "tipo": "fast_food"
+            },
+            "id": 177
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.984166,
+                    40.7486227
+                ]
+            },
+            "properties": {
+                "nome": "Martin E. Segal Theatre Center",
+                "tipo": "theatre"
+            },
+            "id": 178
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9917001,
+                    40.7474576
+                ]
+            },
+            "properties": {
+                "nome": "Hanamizuki",
+                "tipo": "cafe"
+            },
+            "id": 179
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9829081,
+                    40.7509025
+                ]
+            },
+            "properties": {
+                "nome": "USPS",
+                "tipo": "post_box"
+            },
+            "id": 180
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9867656,
+                    40.7503902
+                ]
+            },
+            "properties": {
+                "nome": "Monarch Rooftop",
+                "tipo": "bar"
+            },
+            "id": 181
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9881253,
+                    40.7501893
+                ]
+            },
+            "properties": {
+                "nome": "Cinnabon",
+                "tipo": "fast_food"
+            },
+            "id": 182
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9847937,
+                    40.7519614
+                ]
+            },
+            "properties": {
+                "nome": "Spyglass Rooftop",
+                "tipo": "bar"
+            },
+            "id": 183
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986847,
+                    40.747835
+                ]
+            },
+            "properties": {
+                "nome": "BB.Q Olive Chicken",
+                "tipo": "restaurant"
+            },
+            "id": 184
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9927079,
+                    40.7484534
+                ]
+            },
+            "properties": {
+                "nome": "Bravo Pizza",
+                "tipo": "restaurant"
+            },
+            "id": 185
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9905021,
+                    40.7483305
+                ]
+            },
+            "properties": {
+                "nome": "Friedman’s",
+                "tipo": "restaurant"
+            },
+            "id": 186
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9883698,
+                    40.7482318
+                ]
+            },
+            "properties": {
+                "nome": "Mixue",
+                "tipo": "cafe"
+            },
+            "id": 187
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9884306,
+                    40.7482654
+                ]
+            },
+            "properties": {
+                "nome": "Biao Sugar",
+                "tipo": "cafe"
+            },
+            "id": 188
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9880289,
+                    40.7497065
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - 6 Ave & W 34 St",
+                "tipo": "bicycle_rental"
+            },
+            "id": 189
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9883682,
+                    40.7493062
+                ]
+            },
+            "properties": {
+                "nome": "Bank of America",
+                "tipo": "atm"
+            },
+            "id": 190
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.988387,
+                    40.7493581
+                ]
+            },
+            "properties": {
+                "nome": "Bank of America",
+                "tipo": "bank"
+            },
+            "id": 191
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9933167,
+                    40.7476165
+                ]
+            },
+            "properties": {
+                "nome": "Triple Crown",
+                "tipo": "pub"
+            },
+            "id": 192
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9931701,
+                    40.7478175
+                ]
+            },
+            "properties": {
+                "nome": "City MD",
+                "tipo": "clinic"
+            },
+            "id": 193
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9937884,
+                    40.7483337
+                ]
+            },
+            "properties": {
+                "nome": "Ninth Street Espresso",
+                "tipo": "cafe"
+            },
+            "id": 194
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9931536,
+                    40.7472822
+                ]
+            },
+            "properties": {
+                "nome": "USPS",
+                "tipo": "post_box"
+            },
+            "id": 195
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9883811,
+                    40.7477236
+                ]
+            },
+            "properties": {
+                "nome": "USPS",
+                "tipo": "post_box"
+            },
+            "id": 196
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9902532,
+                    40.7490376
+                ]
+            },
+            "properties": {
+                "nome": "Rowdy Rooster Indian Fried Chicken",
+                "tipo": "restaurant"
+            },
+            "id": 197
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9830168,
+                    40.750937
+                ]
+            },
+            "properties": {
+                "nome": "CVS Pharmacy",
+                "tipo": "pharmacy"
+            },
+            "id": 198
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9822072,
+                    40.7472523
+                ]
+            },
+            "properties": {
+                "nome": "Hamachi Sushi",
+                "tipo": "restaurant"
+            },
+            "id": 199
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9821484,
+                    40.7472278
+                ]
+            },
+            "properties": {
+                "nome": "The Long Hall",
+                "tipo": "pub"
+            },
+            "id": 200
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9904415,
+                    40.7483096
+                ]
+            },
+            "properties": {
+                "nome": "Ichiran",
+                "tipo": "restaurant"
+            },
+            "id": 201
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9921822,
+                    40.7493473
+                ]
+            },
+            "properties": {
+                "nome": "Bank of America",
+                "tipo": "atm"
+            },
+            "id": 202
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9931695,
+                    40.7470484
+                ]
+            },
+            "properties": {
+                "nome": "La Noxe",
+                "tipo": "bar"
+            },
+            "id": 203
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864866,
+                    40.7476872
+                ]
+            },
+            "properties": {
+                "nome": "Grace Street",
+                "tipo": "cafe"
+            },
+            "id": 204
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861655,
+                    40.7473715
+                ]
+            },
+            "properties": {
+                "nome": "Link NYC",
+                "tipo": "telephone"
+            },
+            "id": 205
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864189,
+                    40.7476635
+                ]
+            },
+            "properties": {
+                "nome": "Tea Makers",
+                "tipo": "cafe"
+            },
+            "id": 206
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9867586,
+                    40.7486013
+                ]
+            },
+            "properties": {
+                "nome": "Dim Sum Palace",
+                "tipo": "restaurant"
+            },
+            "id": 207
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9821348,
+                    40.7500083
+                ]
+            },
+            "properties": {
+                "nome": "CHILI 美麗",
+                "tipo": "restaurant"
+            },
+            "id": 208
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9868695,
+                    40.7507114
+                ]
+            },
+            "properties": {
+                "nome": "Brasserie Toast Cafe",
+                "tipo": "cafe"
+            },
+            "id": 209
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9907795,
+                    40.7504377
+                ]
+            },
+            "properties": {
+                "nome": "Rosa's Pizza",
+                "tipo": "restaurant"
+            },
+            "id": 210
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9903779,
+                    40.751653
+                ]
+            },
+            "properties": {
+                "nome": "99¢ Delicious Pizza",
+                "tipo": "restaurant"
+            },
+            "id": 211
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9867152,
+                    40.747815
+                ]
+            },
+            "properties": {
+                "nome": "Anytime NYC",
+                "tipo": "restaurant"
+            },
+            "id": 212
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9877735,
+                    40.7521025
+                ]
+            },
+            "properties": {
+                "nome": "Dunkin'",
+                "tipo": "fast_food"
+            },
+            "id": 213
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9867321,
+                    40.7508937
+                ]
+            },
+            "properties": {
+                "nome": "Taco Bell Cantina",
+                "tipo": "fast_food"
+            },
+            "id": 214
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987102,
+                    40.7479431
+                ]
+            },
+            "properties": {
+                "nome": "Machi machi",
+                "tipo": "cafe"
+            },
+            "id": 215
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9872738,
+                    40.7480141
+                ]
+            },
+            "properties": {
+                "nome": "Antoya Korean BBQ",
+                "tipo": "restaurant"
+            },
+            "id": 216
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861372,
+                    40.7473128
+                ]
+            },
+            "properties": {
+                "nome": "E-MO",
+                "tipo": "restaurant"
+            },
+            "id": 217
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861356,
+                    40.7472762
+                ]
+            },
+            "properties": {
+                "nome": "Hong Chun Cheon Dak Galbi",
+                "tipo": "restaurant"
+            },
+            "id": 218
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9860623,
+                    40.7472788
+                ]
+            },
+            "properties": {
+                "nome": "Kushi Kushi Yaki",
+                "tipo": "restaurant"
+            },
+            "id": 219
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9860976,
+                    40.7472957
+                ]
+            },
+            "properties": {
+                "nome": "Koku Ramen",
+                "tipo": "restaurant"
+            },
+            "id": 220
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864401,
+                    40.747333
+                ]
+            },
+            "properties": {
+                "nome": "MUI",
+                "tipo": "restaurant"
+            },
+            "id": 221
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861681,
+                    40.7473223
+                ]
+            },
+            "properties": {
+                "nome": "Abiko Curry",
+                "tipo": "restaurant"
+            },
+            "id": 222
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9868755,
+                    40.7476009
+                ]
+            },
+            "properties": {
+                "nome": "Citibank",
+                "tipo": "bank"
+            },
+            "id": 223
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9870454,
+                    40.7476554
+                ]
+            },
+            "properties": {
+                "nome": "Itaewon Pocha",
+                "tipo": "restaurant"
+            },
+            "id": 224
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9819585,
+                    40.747152
+                ]
+            },
+            "properties": {
+                "nome": "Masala King",
+                "tipo": "restaurant"
+            },
+            "id": 225
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.982025,
+                    40.7471784
+                ]
+            },
+            "properties": {
+                "nome": "Chelsea Bagel & Pizzeria",
+                "tipo": "fast_food"
+            },
+            "id": 226
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9896709,
+                    40.751969
+                ]
+            },
+            "properties": {
+                "nome": "Greek from Greece",
+                "tipo": "restaurant"
+            },
+            "id": 227
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9906484,
+                    40.7520011
+                ]
+            },
+            "properties": {
+                "nome": "Yang Guo Fu",
+                "tipo": "restaurant"
+            },
+            "id": 228
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9922668,
+                    40.7513655
+                ]
+            },
+            "properties": {
+                "nome": "The Landing",
+                "tipo": "restaurant"
+            },
+            "id": 229
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.994249,
+                    40.7499168
+                ]
+            },
+            "properties": {
+                "nome": "4 Boy 99¢ Pizza",
+                "tipo": "fast_food"
+            },
+            "id": 230
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9912601,
+                    40.7520118
+                ]
+            },
+            "properties": {
+                "nome": "Stick To My Pot Potstickers",
+                "tipo": "restaurant"
+            },
+            "id": 231
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9914715,
+                    40.7515314
+                ]
+            },
+            "properties": {
+                "nome": "Chick-fil-A",
+                "tipo": "fast_food"
+            },
+            "id": 232
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9853791,
+                    40.7470064
+                ]
+            },
+            "properties": {
+                "nome": "Soju Haus",
+                "tipo": "restaurant"
+            },
+            "id": 233
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9859223,
+                    40.7470406
+                ]
+            },
+            "properties": {
+                "nome": "Gopchang Story BBQ",
+                "tipo": "restaurant"
+            },
+            "id": 234
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9879549,
+                    40.7484569
+                ]
+            },
+            "properties": {
+                "nome": "B&L Diner",
+                "tipo": "restaurant"
+            },
+            "id": 235
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9878429,
+                    40.748382
+                ]
+            },
+            "properties": {
+                "nome": "Early Edition Espresso Bar",
+                "tipo": "cafe"
+            },
+            "id": 236
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864775,
+                    40.7482511
+                ]
+            },
+            "properties": {
+                "nome": "Nan Xiang Xiao Long Bao",
+                "tipo": "restaurant"
+            },
+            "id": 237
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9867781,
+                    40.7483804
+                ]
+            },
+            "properties": {
+                "nome": "Rib No. 7",
+                "tipo": "restaurant"
+            },
+            "id": 238
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9871672,
+                    40.7485457
+                ]
+            },
+            "properties": {
+                "nome": "Hutaoli",
+                "tipo": "restaurant"
+            },
+            "id": 239
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9870637,
+                    40.7487358
+                ]
+            },
+            "properties": {
+                "nome": "Ai Ki Ya",
+                "tipo": "restaurant"
+            },
+            "id": 240
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9866107,
+                    40.7483075
+                ]
+            },
+            "properties": {
+                "nome": "Seoul Salon",
+                "tipo": "restaurant"
+            },
+            "id": 241
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.989028,
+                    40.7477192
+                ]
+            },
+            "properties": {
+                "nome": "Gregory’s coffee",
+                "tipo": "cafe"
+            },
+            "id": 242
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861869,
+                    40.7509498
+                ]
+            },
+            "properties": {
+                "nome": "L.A. FUE Hair New York",
+                "tipo": "clinic"
+            },
+            "id": 243
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861942,
+                    40.7501089
+                ]
+            },
+            "properties": {
+                "nome": "Hyodonggak",
+                "tipo": "restaurant"
+            },
+            "id": 244
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9862499,
+                    40.7501321
+                ]
+            },
+            "properties": {
+                "nome": "Han Bat",
+                "tipo": "restaurant"
+            },
+            "id": 245
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9831111,
+                    40.7493752
+                ]
+            },
+            "properties": {
+                "nome": "The Dunes Club",
+                "tipo": "restaurant"
+            },
+            "id": 246
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9830385,
+                    40.7493423
+                ]
+            },
+            "properties": {
+                "nome": "Toledo",
+                "tipo": "restaurant"
+            },
+            "id": 247
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9829506,
+                    40.7493073
+                ]
+            },
+            "properties": {
+                "nome": "Slatterlys Midtown Pub",
+                "tipo": "pub"
+            },
+            "id": 248
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9847364,
+                    40.7516543
+                ]
+            },
+            "properties": {
+                "nome": "38 Food Hall",
+                "tipo": "food_court"
+            },
+            "id": 249
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987791,
+                    40.7517217
+                ]
+            },
+            "properties": {
+                "nome": "Starbucks",
+                "tipo": "cafe"
+            },
+            "id": 250
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9874941,
+                    40.7498599
+                ]
+            },
+            "properties": {
+                "nome": "Capital One Café",
+                "tipo": "cafe"
+            },
+            "id": 251
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9919818,
+                    40.7498527
+                ]
+            },
+            "properties": {
+                "nome": "Pret A Manger",
+                "tipo": "fast_food"
+            },
+            "id": 252
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9866945,
+                    40.7500535
+                ]
+            },
+            "properties": {
+                "nome": "Alliance for Positive Change",
+                "tipo": "social_facility"
+            },
+            "id": 253
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.990701,
+                    40.750526
+                ]
+            },
+            "properties": {
+                "nome": "McDonald's",
+                "tipo": "fast_food"
+            },
+            "id": 254
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98314,
+                    40.7472594
+                ]
+            },
+            "properties": {
+                "nome": "Ravagh Persian Grill",
+                "tipo": "restaurant"
+            },
+            "id": 255
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985317,
+                    40.7477537
+                ]
+            },
+            "properties": {
+                "nome": "Woori America Bank",
+                "tipo": "bank"
+            },
+            "id": 256
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9841442,
+                    40.7493418
+                ]
+            },
+            "properties": {
+                "nome": "Bravo",
+                "tipo": "restaurant"
+            },
+            "id": 257
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987814,
+                    40.7479234
+                ]
+            },
+            "properties": {
+                "nome": "Nana's Green Tea",
+                "tipo": "cafe"
+            },
+            "id": 258
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9930023,
+                    40.75116
+                ]
+            },
+            "properties": {
+                "nome": "Chick-fil-A",
+                "tipo": "fast_food"
+            },
+            "id": 259
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9933551,
+                    40.7505083
+                ]
+            },
+            "properties": {
+                "nome": "Starbucks",
+                "tipo": "cafe"
+            },
+            "id": 260
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9923032,
+                    40.7508733
+                ]
+            },
+            "properties": {
+                "nome": "Raising Cane's",
+                "tipo": "fast_food"
+            },
+            "id": 261
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9858812,
+                    40.7520357
+                ]
+            },
+            "properties": {
+                "nome": "Pizza Town",
+                "tipo": "restaurant"
+            },
+            "id": 262
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9923982,
+                    40.748244
+                ]
+            },
+            "properties": {
+                "nome": "Rony's Fresh Pizza",
+                "tipo": "fast_food"
+            },
+            "id": 263
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9869127,
+                    40.7506563
+                ]
+            },
+            "properties": {
+                "nome": "Pollo Campero",
+                "tipo": "fast_food"
+            },
+            "id": 264
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9862834,
+                    40.7514912
+                ]
+            },
+            "properties": {
+                "nome": "Paris Baguette",
+                "tipo": "cafe"
+            },
+            "id": 265
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9870459,
+                    40.7504913
+                ]
+            },
+            "properties": {
+                "nome": "Bank United",
+                "tipo": "bank"
+            },
+            "id": 266
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9854176,
+                    40.7497845
+                ]
+            },
+            "properties": {
+                "nome": "Playwright Irish Pub",
+                "tipo": "pub"
+            },
+            "id": 267
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9856035,
+                    40.7498622
+                ]
+            },
+            "properties": {
+                "nome": "The Liberty",
+                "tipo": "restaurant"
+            },
+            "id": 268
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9914958,
+                    40.7507736
+                ]
+            },
+            "properties": {
+                "nome": "Roberta's",
+                "tipo": "restaurant"
+            },
+            "id": 269
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9923022,
+                    40.7474883
+                ]
+            },
+            "properties": {
+                "nome": "Loopy's",
+                "tipo": "restaurant"
+            },
+            "id": 270
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9922667,
+                    40.7473981
+                ]
+            },
+            "properties": {
+                "nome": "The PIT",
+                "tipo": "theatre"
+            },
+            "id": 271
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9922458,
+                    40.7474645
+                ]
+            },
+            "properties": {
+                "nome": "New M & J",
+                "tipo": "restaurant"
+            },
+            "id": 272
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9925698,
+                    40.7480095
+                ]
+            },
+            "properties": {
+                "nome": "Apple Bank",
+                "tipo": "bank"
+            },
+            "id": 273
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9915765,
+                    40.7479876
+                ]
+            },
+            "properties": {
+                "nome": "Piggyback",
+                "tipo": "restaurant"
+            },
+            "id": 274
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9940704,
+                    40.7493717
+                ]
+            },
+            "properties": {
+                "nome": "The Drawing Room",
+                "tipo": "arts_centre"
+            },
+            "id": 275
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9932561,
+                    40.7507899
+                ]
+            },
+            "properties": {
+                "nome": "Mas Tacos",
+                "tipo": "restaurant"
+            },
+            "id": 276
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9880621,
+                    40.7506271
+                ]
+            },
+            "properties": {
+                "nome": "Stella 34 Trattoria",
+                "tipo": "restaurant"
+            },
+            "id": 277
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9860309,
+                    40.7500475
+                ]
+            },
+            "properties": {
+                "nome": "Angelina Bakery & Pizza",
+                "tipo": "cafe"
+            },
+            "id": 278
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9830554,
+                    40.7473756
+                ]
+            },
+            "properties": {
+                "nome": "Dao Dim Sum",
+                "tipo": "restaurant"
+            },
+            "id": 279
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9927573,
+                    40.7476794
+                ]
+            },
+            "properties": {
+                "nome": "Le Pain Quotidien",
+                "tipo": "cafe"
+            },
+            "id": 280
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9859621,
+                    40.7516443
+                ]
+            },
+            "properties": {
+                "nome": "Smash House",
+                "tipo": "restaurant"
+            },
+            "id": 281
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985903,
+                    40.7516084
+                ]
+            },
+            "properties": {
+                "nome": "Vivid Cabaret",
+                "tipo": "stripclub"
+            },
+            "id": 282
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9871962,
+                    40.7471726
+                ]
+            },
+            "properties": {
+                "nome": "K Sushi & Bar",
+                "tipo": "restaurant"
+            },
+            "id": 283
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9858316,
+                    40.752084
+                ]
+            },
+            "properties": {
+                "nome": "Frozen City",
+                "tipo": "ice_cream"
+            },
+            "id": 284
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861062,
+                    40.7500629
+                ]
+            },
+            "properties": {
+                "nome": "Black Tap",
+                "tipo": "restaurant"
+            },
+            "id": 285
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9853512,
+                    40.7469733
+                ]
+            },
+            "properties": {
+                "nome": "Nubiani",
+                "tipo": "restaurant"
+            },
+            "id": 286
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.984535,
+                    40.750229
+                ]
+            },
+            "properties": {
+                "nome": "Tonchin New York",
+                "tipo": "restaurant"
+            },
+            "id": 287
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9859024,
+                    40.750816
+                ]
+            },
+            "properties": {
+                "nome": "The Keg Room",
+                "tipo": "bar"
+            },
+            "id": 288
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9850554,
+                    40.7520674
+                ]
+            },
+            "properties": {
+                "nome": "Class on 38th",
+                "tipo": "restaurant"
+            },
+            "id": 289
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9852329,
+                    40.7511
+                ]
+            },
+            "properties": {
+                "nome": "Watami Sushi",
+                "tipo": "restaurant"
+            },
+            "id": 290
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986539,
+                    40.751139
+                ]
+            },
+            "properties": {
+                "nome": "Sushi & Co",
+                "tipo": "fast_food"
+            },
+            "id": 291
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864912,
+                    40.7512034
+                ]
+            },
+            "properties": {
+                "nome": "Roma Pizza",
+                "tipo": "fast_food"
+            },
+            "id": 292
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986448,
+                    40.7512648
+                ]
+            },
+            "properties": {
+                "nome": "Oakberry Acai",
+                "tipo": "fast_food"
+            },
+            "id": 293
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9863642,
+                    40.7513786
+                ]
+            },
+            "properties": {
+                "nome": "I'Milky",
+                "tipo": "fast_food"
+            },
+            "id": 294
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861935,
+                    40.7476537
+                ]
+            },
+            "properties": {
+                "nome": "Pelicana",
+                "tipo": "fast_food"
+            },
+            "id": 295
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9823057,
+                    40.7476688
+                ]
+            },
+            "properties": {
+                "nome": "Tiberias",
+                "tipo": "restaurant"
+            },
+            "id": 296
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9860187,
+                    40.7483043
+                ]
+            },
+            "properties": {
+                "nome": "STATE Grill and Bar",
+                "tipo": "restaurant"
+            },
+            "id": 297
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9847294,
+                    40.7486834
+                ]
+            },
+            "properties": {
+                "nome": "Glow Dental of Midtown Manhattan: Dr. Alina Huang",
+                "tipo": "dentist"
+            },
+            "id": 298
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9825854,
+                    40.748529
+                ]
+            },
+            "properties": {
+                "nome": "Citi Bike - E 35 St & Madison Ave",
+                "tipo": "bicycle_rental"
+            },
+            "id": 299
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9930196,
+                    40.7480254
+                ]
+            },
+            "properties": {
+                "nome": "Pret A Manger",
+                "tipo": "fast_food"
+            },
+            "id": 300
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9818396,
+                    40.7474623
+                ]
+            },
+            "properties": {
+                "nome": "Mount Sinai Doctors",
+                "tipo": "clinic"
+            },
+            "id": 301
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9888833,
+                    40.7520522
+                ]
+            },
+            "properties": {
+                "nome": "Dunkin'",
+                "tipo": "fast_food"
+            },
+            "id": 302
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9851526,
+                    40.7472671
+                ]
+            },
+            "properties": {
+                "nome": "Xing Fu Tang",
+                "tipo": "cafe"
+            },
+            "id": 303
+        }
+    ]
+}
